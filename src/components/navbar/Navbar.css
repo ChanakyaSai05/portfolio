@@ -1,0 +1,54 @@
+.navbar {
+  height: 1vh;
+  /* position: sticky;
+  top: 0; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; /* Adjust as needed */
+  /* width: 100vw; */
+  display: flex;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background-color: black;
+  color: white;
+  z-index: 20;
+  
+}
+.logo {
+  width: 20vw;
+  margin-left: 10%;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.my {
+  font-family: "Poppins", sans-serif;
+  margin-top: 2rem;
+  font-size: 25px;
+}
+.portfolio {
+  font-size: 2.5rem;
+  font-family: "Poppins", sans-serif;
+}
+.dot {
+  font-size: 51px;
+  margin-bottom: 4.5rem;
+  color: red;
+}
+.tabs {
+  width: 55vw;
+  font-size: large;
+  font-weight: 395;
+  margin-right: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 38%;
+  font-family: "Poppins", sans-serif;
+}
+.tabContainer {
+  color: white;
+}

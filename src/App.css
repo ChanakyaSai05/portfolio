@@ -1,0 +1,41 @@
+html{
+  scroll-snap-type: y mandatory;
+  /* scroll-snap-type: y proximity; */
+}
+section{
+  scroll-snap-align: start;
+}
+body {
+  background-color: black;
+  color: rgb(62, 34, 34);
+  font-family: "Poppins", sans-serif;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem;
+}
+.nameFooter {
+  color: red;
+  margin-left: 6px;
+  margin-right: 6px;
+  cursor: pointer;
+}
+.copySymbol {
+  font-size: 1.35rem;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+@media (min-width: 350px) and (max-width: 565px) {
+  footer {
+    font-size: 9.5px;
+  }
+  .copySymbol {
+    font-size: 1rem;
+  }
+}
+a{
+  text-decoration: none;
+  color: white;
+}
