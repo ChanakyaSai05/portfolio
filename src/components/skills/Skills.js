@@ -37,7 +37,7 @@ function Skills() {
           <h1 className="header">My Skills</h1>
           <p className="sub_header_skills">
             <hr color="red" className="hr_line" />
-            <p className="sub_sub_header">what i know</p>
+            <p className="sub_sub_header">What I know</p>
             <hr color="red" className="hr_line" />
           </p>
         </header>

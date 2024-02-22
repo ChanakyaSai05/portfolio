@@ -9,7 +9,7 @@ function MyExp() {
           <h1 className="header">Experience</h1>
           <p className="sub_header_contact">
             <hr color="red" className="hr_line" />
-            <p className="sub_sub_header">my journey</p>
+            <p className="sub_sub_header">My Journey</p>
             <hr color="red" className="hr_line" />
           </p>
         </header>

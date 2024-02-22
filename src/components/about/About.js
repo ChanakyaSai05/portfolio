@@ -39,7 +39,7 @@ function About({ text = "Full Stack Web Developer", delay = 175 }) {
             <h1 className="header">About Me</h1>
             <p className="sub_header">
               <hr color="red" className="hr_line" />
-              <p className="sub_sub_header">who am i</p>
+              <p className="sub_sub_header">Who am I</p>
               <hr color="red" className="hr_line" />
             </p>
           </header>

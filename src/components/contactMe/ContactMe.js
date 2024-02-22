@@ -117,7 +117,7 @@ function ContactMe() {
           <h1 className="header">Contact Me</h1>
           <p className="sub_header_contact">
             <hr color="red" className="hr_line" />
-            <p className="sub_sub_header">get in touch</p>
+            <p className="sub_sub_header">Get In touch</p>
             <hr color="red" className="hr_line" />
           </p>
         </header>

@@ -21,7 +21,6 @@
     "core-js": "^3.27.2",
     "emailjs-com": "^3.2.0",
     "icon-components": "^1.7.3",
-    "lottie-react-web": "^2.2.2",
     "react": "^18.2.0",
     "react-back-to-top": "^1.0.3",
     "react-back-to-top-button": "^0.0.14",
