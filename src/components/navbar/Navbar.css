@@ -9,8 +9,8 @@
   z-index: 1000; /* Adjust as needed */
   /* width: 100vw; */
   display: flex;
-  padding-top: 2%;
-  padding-bottom: 2%;
+  justify-content: space-around;
+  padding: 2%;
   background-color: black;
   color: white;
   z-index: 20;

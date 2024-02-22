@@ -60,8 +60,8 @@ function About({ text = "Full Stack Web Developer", delay = 175 }) {
                   <FileDownloadOutlinedIcon />
                 </div>
                 <div className="downloadText">
-                  <a href="/Chanakya_Resume_latest.pdf" download>
-                    Download My CV
+                  <a href="/Chanakya_Resume_latest.pdf" target="_blank">
+                    View My CV
                   </a>
                 </div>
               </button>

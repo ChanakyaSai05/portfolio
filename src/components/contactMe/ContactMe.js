@@ -232,7 +232,7 @@ function ContactMe() {
                         variant="h6"
                         component="h2"
                         sx={{
-                          color: "green",
+                          color: "red",
                           display: "flex",
                           flexDirection: "column",
                           justifyContent: "center",
@@ -409,7 +409,7 @@ function ContactMe() {
                         variant="h6"
                         component="h2"
                         sx={{
-                          color: "green",
+                          color: "red",
                           display: "flex",
                           flexDirection: "column",
                           justifyContent: "center",

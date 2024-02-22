@@ -102,7 +102,7 @@ function MyExp() {
             </ol>
           </div>
 
-          <div className="experience-item">
+          {/* <div className="experience-item">
             <h3>Software / Electrical Engineer</h3>
             <p>Raja Rajeshwara Electricals, Hyderabad, India</p>
             <p>September 2018 - October 2022</p>
@@ -120,7 +120,7 @@ function MyExp() {
                 associated with projects.
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </div>
     </Card>
